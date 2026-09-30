@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Adventure Backpack",
+    "price": 1499,
+    "image": "images/backpack.jpg",
+    "description": "Durable backpack for travel and outdoor adventures.",
+"category": "Backpacks"
+  },
+  {
+    "id": 2,
+    "name": "Explorer Travel Bottle",
+    "price": 699,
+    "image": "images/bottle.jpg",
+    "description": "Reusable insulated bottle for your journeys.",
+"category": "Drinkware"
+  },
+  {
+    "id": 3,
+    "name": "Mountain Camping Tent",
+    "price": 2999,
+    "image": "images/tent.jpg",
+    "description": "Comfortable camping tent for mountain adventures.",
+"category": "Camping"
+  }
+]
